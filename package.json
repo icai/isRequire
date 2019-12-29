@@ -1,6 +1,6 @@
 {
   "name": "@w3cub/isrequire",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "detect file path is require-able",
   "main": "index.js",
   "scripts": {
