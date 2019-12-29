@@ -1,12 +1,12 @@
 {
-  "name": "isrequire",
+  "name": "@w3cub/isrequire",
   "version": "1.0.2",
   "description": "detect file path is require-able",
   "main": "index.js",
   "scripts": {
     "test": "npm run tstest && mocha",
     "tstest": "mocha -r ts-node/register",
-    "release": "standard-version && git push --follow-tags && npm publish"
+    "release": "standard-version && git push --follow-tags && npm publish --access=public"
   },
   "author": "Terry Cai",
   "license": "MIT",

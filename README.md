@@ -4,7 +4,7 @@
 ## Setup
 
 ```sh
-    npm i isrequire --save
+npm i @w3cub/isrequire --save
 ```
 
 
