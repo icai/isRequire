@@ -1,12 +1,12 @@
 {
   "name": "isrequire",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "detect file path is require-able",
   "main": "index.js",
   "scripts": {
     "test": "npm run tstest && mocha",
     "tstest": "mocha -r ts-node/register",
-    "release": "standard-version && git push --follow-tags && npm publish --access public"
+    "release": "standard-version && git push --follow-tags && npm publish"
   },
   "author": "Terry Cai",
   "license": "MIT",
